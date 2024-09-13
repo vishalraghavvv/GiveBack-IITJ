@@ -31,7 +31,8 @@ export default function Helo() {
         className={`absolute inset-0 bg-gradient-to-t from-gray-900 to-transparent transition-opacity duration-1000 ${
           isHovered ? 'opacity-70' : 'opacity-0'
         }`}
-      >
+      >  
+      
         
       </div>
 
